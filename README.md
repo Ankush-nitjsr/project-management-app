@@ -2,6 +2,14 @@
 
 Welcome to the Project Management App, a sophisticated tool developed with ReactJS and Vite for effective project organization. This README provides an overview of the app's features and how to get started.
 
+## Deployed Link
+
+https://project-management-app-vert.vercel.app/
+
+## Source Code Link
+
+https://github.com/Ankush-nitjsr/project-management-app
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)

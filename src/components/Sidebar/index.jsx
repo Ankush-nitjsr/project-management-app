@@ -17,17 +17,14 @@ function Sidebar() {
     <div className="sidebar">
       <header className="sidebar-header">
         <div className="title">
-          <img src="../../../src/images/title-icon-img.png" alt="title icon" />
+          <img src="../src/images/title-icon-img.png" alt="title icon" />
           <div className="title-name">
             <p style={{ color: "var(--grey)", fontWeight: "800" }}>INC</p>
             <p style={{ fontWeight: "900" }}>InnovateHub</p>
           </div>
         </div>
         <div className="profile-pic">
-          <img
-            src="../../../src/images/My_pic.jpg"
-            alt="User profile picture"
-          />
+          <img src="../src/images/My_pic.jpg" alt="User profile picture" />
         </div>
       </header>
       <main>
