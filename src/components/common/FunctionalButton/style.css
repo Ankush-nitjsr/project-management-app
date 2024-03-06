@@ -1,0 +1,11 @@
+.functionalButton {
+  background-color: var(--white);
+  border: 1px solid var(--grey);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  transition: all 0.3s;
+}
+
+.functionalButton:hover {
+  background-color: var(--blue);
+}

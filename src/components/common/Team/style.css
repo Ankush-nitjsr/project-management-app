@@ -1,0 +1,22 @@
+.team {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0;
+  transition: all 0.3s;
+}
+
+.team:hover {
+  background-color: var(--grey);
+}
+
+.team-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+button {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}

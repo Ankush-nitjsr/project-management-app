@@ -1,0 +1,27 @@
+.tableRow {
+  height: 2.5rem;
+  transition: all 0.3s;
+}
+
+.tableRow:hover {
+  background-color: var(--grey);
+}
+
+.tableRow td {
+  padding: 0 1rem;
+  overflow: scroll;
+  white-space: nowrap;
+  border: 1px solid var(--grey);
+}
+
+.tableRow td:first-child {
+  width: 15rem;
+}
+
+.tableRow td:last-child {
+  width: 2rem;
+}
+
+.checkbox-input {
+  margin: 0 0.35rem;
+}

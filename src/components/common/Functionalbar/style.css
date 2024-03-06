@@ -1,0 +1,15 @@
+.functionalbar {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-section {
+  display: flex;
+  gap: 1rem;
+}
+
+.function-section {
+  display: flex;
+  gap: 0.5rem;
+}

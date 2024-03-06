@@ -1,0 +1,33 @@
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--grey);
+  padding-bottom: 0.75rem;
+}
+
+.search-section {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  gap: 1rem;
+}
+
+.search-icon {
+  position: absolute;
+  top: 0.72rem;
+  left: 0.3rem;
+}
+
+.search-input {
+  border: 1px solid var(--grey);
+  border-radius: 0.5rem;
+  padding: 0 1.5rem;
+}
+
+.chat-btn,
+.settings-btn {
+  background-color: var(--white);
+  border: 1px solid var(--grey);
+  border-radius: 0.5rem;
+  padding: 0 0.75rem;
+}

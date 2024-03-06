@@ -1,0 +1,33 @@
+.sidebar {
+  width: 22%;
+  border: 1px solid var(--grey);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.title img {
+  height: 3rem;
+  border-radius: 1rem;
+}
+
+.profile-pic img {
+  height: 2rem;
+  border-radius: 1rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 3rem;
+}
